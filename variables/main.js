@@ -23,4 +23,7 @@ console.log(DATO_TRES);
 
 let numeroCuatro = 3;
 console.log(numeroCuatro);
- 
+
+
+let vaiableEjempli = 52;
+console.log(vaiableEjempli);
